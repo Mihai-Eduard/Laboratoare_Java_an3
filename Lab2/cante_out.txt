@@ -1,0 +1,24 @@
+* 7 15 IMPODOBESTE MAMA BRADUL SI NU TE INTRISTA
+* 8 16 Asta e seara de Craciun, este seara ta
+7 16 Impodobeste bradul tata ca ne asteapta-n prag
+9 19 Colindatori la noi acasa, hai sa-i primim cu drag.
+0 0 
+8 17 E MASA INCARCATA DE NUCI, MERE SI COLACEI
+6 14 FII VESELA MAMA, LA USA-S CLOPOTEI
+9 18 SI CERUL CU STELE AZI CANTA 'E VREMEA COLINDELOR'
+7 14 Hai tata, nu plange, e seara tuturor..
+0 0 
+* 7 15 IMPODOBESTE MAMA BRADUL SI NU TE INTRISTA
+* 8 16 Asta e seara de Craciun, este seara ta
+7 16 IMPODOBESTE BRADUL TATA CA NE ASTEAPTA-N PRAG
+9 19 Colindatori la noi acasa, hai sa-i primim cu drag.
+0 0 
+9 17 Tu, mama, ma iarta de toate cate ti-am gresit
+8 15 HAI, STRANGE-MA IN BRATE SI SPUNE-MI 'BUN VENIT'
+11 19 E noaptea cand Domnul va sta cu noi la masa iara
+8 14 HAI TAT, A NU PLANGE, E SEARA TUTUROR..
+0 0 
+* 7 15 Impodobeste mama bradul si nu te intrista
+* 8 16 Asta e seara de Craciun, este seara ta
+7 16 IMPODOBESTE BRADUL TATA CA NE ASTEAPTA-N PRAG
+9 19 Colindatori la noi acasa, hai sa-i primim cu drag.
