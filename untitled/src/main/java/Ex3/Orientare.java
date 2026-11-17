@@ -1,0 +1,7 @@
+package Ex3;
+
+public enum Orientare {
+    LUNGIME,
+    LATIME,
+    ORICARE
+}
